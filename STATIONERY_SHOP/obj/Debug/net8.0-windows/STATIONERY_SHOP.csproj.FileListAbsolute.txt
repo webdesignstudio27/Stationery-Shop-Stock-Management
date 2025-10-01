@@ -1,0 +1,15 @@
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.csproj.AssemblyReference.cache
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.AdminLogin.resources
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.Billing.resources
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.Category.resources
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.Dashboard.resources
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.Items.resources
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.Login.resources
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.Properties.Resources.resources
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.Users.resources
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.csproj.GenerateResource.cache
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.AssemblyInfoInputs.cache
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.AssemblyInfo.cs
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.csproj.CoreCompileInputs.cache
+D:\STATIONERY PROJECT\STATIONERY_SHOP\obj\Debug\net8.0-windows\STATIONERY_SHOP.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
